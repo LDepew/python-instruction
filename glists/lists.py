@@ -1,4 +1,4 @@
-friends = ["Kevin", "Karen", "Jim", "Oscar", "Tobey"]
+friends = ["Kevin", "Karen", "Jim", "Oscar", "Toby"]
 
 print(friends)
 print(friends[0])
