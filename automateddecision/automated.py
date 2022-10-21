@@ -1,8 +1,9 @@
 import random
 
 choices = []
+n = input("Enter number of choices: ")
 
-for i in range(3):
+for i in range(int(n)):
     i = input("Enter choices: ")
     choices.append(i)
     
